@@ -1,3 +1,4 @@
+#python
 try: #prevent unexpected crash
   ofile = open(filename)
 except:
